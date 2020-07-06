@@ -1,0 +1,22 @@
+
+article p{
+text-align: center;
+color:darkolivegreen;
+}
+aside {
+    float: center;
+    width: 230px;
+    margin: 20px 0px;
+    padding: 20px;
+  }
+  
+  
+  aside p {
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 18px;
+    color: #ffffff;
+    margin: 15px 0px 25px 0px;  /*Sup Der Inf Izq*/
+    padding: 15px 15px 15px 15px;  /*Sup Der Inf Izq*/
+    background: #414141;
+    border-radius: 10px;
+  }

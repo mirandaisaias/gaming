@@ -1,0 +1,37 @@
+body{
+    background-image: url(../img/ubuntu.jpg);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    
+    font-family: monospace;
+}
+table {
+    margin: 0px 50px 0px 10px;  /*Sup Der Inf Izq*/
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-align: left;
+    border-collapse: collapse;
+    width: 98%;
+}
+table th {
+    padding: 10px 12px 10px 12px;  /*Sup Der Inf Izq*/
+    background-color: #494848;
+    color: white;
+}
+
+
+table td {
+    border: 1px solid #ddd;
+    padding: 3px 10px 3px 10px;
+}
+
+table img {
+    height: 35px;    
+    width: auto;
+}
+
+article p{
+  margin: 5px 30px 20px 30px; /*Sup Der Inf Izq*/
+  font-size: 20px;
+  color: #3a3a3a;
+}

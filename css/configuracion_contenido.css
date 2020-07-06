@@ -1,0 +1,16 @@
+
+
+article {
+    padding: 10px;
+    margin: 5px;
+    /*border: 1px solid #e70d0d;*/
+}
+
+
+article p {
+    padding: 0px 0px 7px 0px;  /*Sup Der Inf Izq*/
+    margin: 10;
+    font-family: "Segoe UI", sans-serif;
+    font-size: 17px;
+    /*border: 1px solid #1d09d4;*/
+}

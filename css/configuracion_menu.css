@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background: #ffffff;
+    /*border: 1px solid #D61E9D;*/
+}
+header nav section aside footer article figure figcaption hgroup {
+    display: block;
+}
+
+body{
+    background-image: url(../img/ubuntu.jpg);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    margin: 0;
+    
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+#marco_principal {
+    width: 960px;
+    margin: 15px auto;
+    padding: 5px;
+    text-align: center;
+}
+
+
+#titulo {
+    background: #494848;
+    /*border: 1px solid #D61E9D;*/
+    padding: 10px;
+    border-radius: 35px;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+    background: #474747;
+    color: #ececf7;
+}
+#menu {
+    margin: 5px 30px;
+    padding: 10px 10px;
+    color: #494848;
+}
+
+
+#menu li {
+    display: inline-block;
+    list-style: none;
+    padding: 5px 10px 15px 10px;  /*Sup Der Inf Izq*/
+    font: bold 16px verdana, san-serif;
+    text-align: justify;
+}
+
+
+/**nav li a:visited, a:link, a:active{**/
+#menu li a:link {
+    text-decoration: none;
+    padding: 5px 15px 10px 15px;  /*Sup Der Inf Izq*/
+    color: #494848;
+}
+
+
+#menu li a:hover {
+  
+}
+
+#pie_principal {
+    clear: both;
+    display: block;
+    text-align: center;
+    margin: 20px 0px 0px 0px;  /*Sup Der Inf Izq*/
+    border-top: 2px solid #7e0297;
+}

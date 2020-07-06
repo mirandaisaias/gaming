@@ -1,0 +1,18 @@
+.ctn-data {
+    width: 130%
+    margin: 20px 30px;
+    padding: 20px 20px
+    /*paddins: 11px;*/
+}
+
+.p-data{
+    font-family: arial;
+    font-size: 11px;
+    margin-top: 10px
+    background: rgb(246, 234, 153);
+}
+
+.ctn-lbl-comentar{
+    width: 100%;
+    text-align: center;
+}

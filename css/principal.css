@@ -1,0 +1,56 @@
+
+  h2 {
+    text-align: justify;
+    padding: 0px 0px 10px 0px;  /*Sup Der Inf Izq*/
+    font-size: 27px;
+    color: #313131;
+  }
+  
+section {
+  float: left;
+  width: 660px;
+  margin: 10px;
+}
+
+
+article {
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+
+article footer {
+  text-align: right;
+  font-size: 18px;
+  color: #ff2f0a;
+}
+article p{
+  margin: 5px 30px 20px 30px; /*Sup Der Inf Izq*/
+  font-size: 20px;
+  color: #3a3a3a;
+}
+
+article div{
+  margin: 5px 70px 20px 70px; /*Sup Der Inf Izq*/
+}
+article div video{
+  height: auto;
+  width: 100%;
+}
+aside {
+  float: right;
+  width: 230px;
+  margin: 20px 0px;
+  padding: 20px;
+}
+
+
+aside p {
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 18px;
+  color: #ffffff;
+  margin: 15px 0px 25px 0px;  /*Sup Der Inf Izq*/
+  padding: 15px 15px 15px 15px;  /*Sup Der Inf Izq*/
+  background: #414141;
+  border-radius: 10px;
+}
